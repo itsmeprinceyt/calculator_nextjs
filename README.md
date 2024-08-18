@@ -48,6 +48,10 @@ If you would like to contribute to this project:
 - Push to the branch (`git push origin feature-branch`).
 - Create a Pull Request.
 
+## Explanation Video
+
+https://www.youtube.com/watch?v=UoqdiPW0Nbk
+
 ## Live Link
 
 https://calculator-nextjs-six.vercel.app/
